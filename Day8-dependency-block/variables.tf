@@ -1,6 +1,6 @@
 variable "ami_id" {
   description = "for passing ami values"
-  default = ""
+  default = "ami-0157af9aea2eef346"
   type = string 
 }
 
